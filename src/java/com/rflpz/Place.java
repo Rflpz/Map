@@ -13,8 +13,8 @@ public class Place {
     private String name;
     private String address;
     private String type;
-    private double lat;
-    private double lon;
+    private float lat;
+    private float lon;
     
     public Place(){
     
@@ -47,15 +47,15 @@ public class Place {
         return lat;
     }
 
-    public void setLat(double lat) {
+    public void setLat(float lat) {
         this.lat = lat;
     }
 
-    public double getLon() {
+    public float getLon() {
         return lon;
     }
 
-    public void setLon(double lon) {
+    public void setLon(float lon) {
         this.lon = lon;
     }
     
