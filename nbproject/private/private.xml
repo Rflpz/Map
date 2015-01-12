@@ -2,6 +2,11 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/Users/Rflpz/Desktop/Map/web/WEB-INF/web.xml</file>
+            <file>file:/Users/Rflpz/Desktop/Map/src/java/com/rflpz/Place.java</file>
+            <file>file:/Users/Rflpz/Desktop/Map/src/java/com/rflpz/MapBean.java</file>
+            <file>file:/Users/Rflpz/Desktop/Map/web/map.xhtml</file>
+        </group>
     </open-files>
 </project-private>
